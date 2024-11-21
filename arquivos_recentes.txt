@@ -1,0 +1,6 @@
+C:\Users\cristian\.portugol\exemplo1.por
+C:\Users\cristian\.portugol\exemplo2-se com mais de 2casos.por
+C:\Users\cristian\.portugol\exemplo3- caso ou caso contrario.por
+C:\Users\cristian\.portugol\exercicio2-tabuada do usuario.por
+C:\Users\cristian\.portugol\exemplo4-vetores.por
+C:\Users\cristian\.portugol\exemplo5-matriz.por
